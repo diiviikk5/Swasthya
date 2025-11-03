@@ -343,7 +343,7 @@ export default function Landing() {
           className="absolute inset-0 w-full h-full object-cover"
           style={{ opacity: 0.85 }}
         >
-          <source src="/teaser.mp4" type="video/mp4" />
+          <source src="./teaser.mp4" type="video/mp4" />
         </video>
 
         {/* Dark overlay with warm tones */}
