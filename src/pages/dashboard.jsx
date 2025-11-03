@@ -210,41 +210,19 @@ const DashboardNavbar = () => {
               <NavButton key={item.name} href={item.href} label={item.name} icon={item.icon} />
             ))}
 
-            {/* Tools Dropdown */}
-            <div className="relative">
-              <DropdownButton
-                label="Tools"
-                icon={Zap}
-                isOpen={openDropdown === 'tools'}
-                onClick={() => setOpenDropdown(openDropdown === 'tools' ? null : 'tools')}
-              />
-              <DropdownMenu items={toolsMenu} isOpen={openDropdown === 'tools'} />
-            </div>
-
-            {/* Tracking Dropdown */}
-            <div className="relative">
-              <DropdownButton
-                label="Tracking"
-                icon={BarChart3}
-                isOpen={openDropdown === 'tracking'}
-                onClick={() => setOpenDropdown(openDropdown === 'tracking' ? null : 'tracking')}
-              />
-              <DropdownMenu items={trackingMenu} isOpen={openDropdown === 'tracking'} />
-            </div>
-
-            {/* Resources Dropdown */}
-            <div className="relative">
-              <DropdownButton
-                label="Resources"
-                icon={Leaf}
-                isOpen={openDropdown === 'resources'}
-                onClick={() => setOpenDropdown(openDropdown === 'resources' ? null : 'resources')}
-              />
-              <DropdownMenu items={resourcesMenu} isOpen={openDropdown === 'resources'} />
-            </div>
+          {/* Tools Dropdown */}
+          <div className="relative">
+            <DropdownButton
+              label="Tools"
+              icon={Zap}
+              isOpen={openDropdown === 'tools'}
+              onClick={() => setOpenDropdown(openDropdown === 'tools' ? null : 'tools')}
+            />
+            <DropdownMenu items={toolsMenu} isOpen={openDropdown === 'tools'} />
           </div>
+        </div>
 
-          {/* Right Actions */}
+        {/* Right Actions */}
           <div className="hidden md:flex items-center gap-2 ml-auto">
             <motion.button
               whileHover={{ scale: 1.1 }}
