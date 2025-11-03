@@ -74,4 +74,45 @@ Our entire platform is built upon **4 eternal truths** from ancient Vedic wisdom
 
 **Features:**
 
+⏱️  00:00 - 00:30 → Project Setup & Architecture
+   ├─ React + Vite environment
+   ├─ Tailwind CSS + Framer Motion
+   ├─ Project structure & routing
+   └─ Component library setup
+
+⏱️  00:30 - 01:15 → Core Pages & Navigation
+   ├─ Landing Page (beautiful hero + shlokas)
+   ├─ Dashboard (5D wellness tracker)
+   ├─ Navbar (responsive + dropdown menus)
+   └─ App routing (all pages connected)
+
+⏱️  01:15 - 02:00 → First 2 Sacred Tools
+   ├─ Symptom Logger (शिवोऽहम्)
+   │  └─ Multi-dimensional symptom selection
+   ├─ Joy Tracker (अधरं मधुरम्)
+   │  └─ Joy intensity tracking & analytics
+   └─ Beautiful UI/UX with animations
+⏱️  02:00 - 02:45 → AI Chatbot & Community
+   ├─ Budh 2.0 Chatbot (कालभैरव)
+   │  ├─ Gemini 2.0 Flash API integration
+   │  ├─ Spiritual + Evidence-based responses
+   │  └─ Real-time chat UI with animations
+   ├─ Sacred Fire Community (अजं शाश्वतम्)
+   │  ├─ 6 topic-based circles
+   │  ├─ Member profiles & engagement
+   │  └─ Community dashboard
+   └─ All 4 Shlokas feature-complete
+
+⏱️  02:45 - 03:30 → Polish & Deployment
+   ├─ Fix video path (teaser.mp4)
+   ├─ Optimize animations
+   ├─ Mobile responsiveness
+   ├─ Environment variables setup
+   └─ GitHub push + Vercel deploy
+
+⏱️  03:30 - 04:00 → Testing & Final Polish
+   ├─ Cross-browser testing
+   ├─ Performance optimization
+   ├─ README documentation
+   └─ 🚀 LIVE ON VERCEL
 
