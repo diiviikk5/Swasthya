@@ -10,7 +10,7 @@
 
 **4 Sacred Shlokas • 5 Wellness Dimensions • Infinite Possibilities**
 
-[🌐 Visit Live](#) • [📖 Learn More](#) • [🚀 Get Started](#)
+
 
 </div>
 
