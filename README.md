@@ -1,16 +1,31 @@
-# React + Vite
+# 🕉️ Swasthya Arogyam
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> **Where Ancient Vedic Wisdom Meets Modern AI**
+> 
+> *The Temple of Eternal Wellness*
 
-Currently, two official plugins are available:
+<div align="center">
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### ✨ Spiritual Consciousness × Digital Transformation ✨
 
-## React Compiler
+**4 Sacred Shlokas • 5 Wellness Dimensions • Infinite Possibilities**
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+[🌐 Visit Live](#) • [📖 Learn More](#) • [🚀 Get Started](#)
 
-## Expanding the ESLint configuration
+</div>
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🧘‍♀️ The Sacred Philosophy
+
+Swasthya Arogyam is not just a wellness app—it's a **spiritual revolution** rooted in the deepest Vedic teachings. We transform how humanity approaches health by connecting consciousness itself to wellness.
+
+### The Four Sacred Shlokas (Our Foundation)
+
+Our entire platform is built upon **4 eternal truths** from ancient Vedic wisdom:
+
+---
+
+#### 1️⃣ **शिवोऽहम्** (Shivo'ham) - "I Am Pure Consciousness"  
+*The Observer, Beyond Identification*
+
